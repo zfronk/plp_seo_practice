@@ -1,39 +1,26 @@
 # Zfronk - Flavor, Tech & Hustle
 
-This is a basic HTML project that tells the story of "Zfronk" a fictional (but inspired) character based on a self-taught IT guy who transitions into a street food entrepreneur in Kasarani, Kenya. 
+This project is a simple HTML page I created as part of my Power Learn Project (PLP) assignment. It's mainly for practicing HTML structure and indexing, stuff like using semantic tags, internal linking, and meta info that helps with visibility.
 
-It’s part of my ongoing Power Learn Project (PLP) assignments to practice:
+"Zfronk" is a personal alias I use to blend my love for tech with my passion for street food. This page is built to show how even a small static file can carry meaning and personality.
 
-- Proper HTML5 structure
-- Semantic tags for accessibility and SEO
-- Indexing sections with IDs and navigation links
-- Clean, readable layout that improves visibility
+## What's inside
 
-## 📌 Project Features
+* A homepage with structured sections: intro, menu, and story
+* Proper use of HTML5 semantic tags
+* Internal anchor links using IDs for quick navigation
+* Meta tags for visibility and indexing
 
-- **Header & Navigation:** Includes a responsive title, short description, and navigation links to internal sections.
-- **Main Sections:**
-  - `Introduction`: Background on Zfronk.
-  - `Menu`: Details of what's served at the fast food joint.
-  - `His Story`: Personal journey from code to cuisine.
-- **Meta Tags for SEO:** Description meta tag to improve indexing.
-- **Footer:** Built-in copyright.
+## Why I built it
 
-## 💡 Purpose
+I was exploring how simple HTML can still be effective when done right. It's a quick way to sharpen basic skills while making something relatable.
 
-This page is a creative mix of HTML practice and personal branding exercise. It reflects how HTML can be used not only to build structure but also to tell stories that add visibility online.
+## How to view it
 
-## 🛠️ Tech Stack
+1. Download or clone the project
+2. Open the HTML file in your browser
+3. Browse through the sections and check the source code if you're curious
 
-- HTML5 (no CSS or JS yet – raw structure only)
+## About the author
 
-## 🚀 How to Run
-
-1. Clone or download this repo
-2. Open the HTML file in any modern web browser
-3. Explore the content and structure
-
-## 📣 Author
-
-Built by **Steve Aboll** aka **zfronk** – mixing code and street hustle, one project at a time.
-
+Created by Steve Aboll, aka zfronk, a self-taught techie who's all about learning, building, and hustling.
